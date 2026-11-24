@@ -1,3 +1,15 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+<<<<<<< HEAD
+=======
+# Markdown personal settings
+/markdown.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Ignored default folder with query files
+/queries/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+>>>>>>> b412b0cf1792fc49fcdc381c8b53d869d525e447
