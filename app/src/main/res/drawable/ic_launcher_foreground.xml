@@ -1,0 +1,52 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Drop Shadow under building -->
+    <path
+        android:fillColor="#33000000"
+        android:pathData="M26,79 C26,79 38,82 54,82 C70,82 82,79 82,79 L80,82 C80,83.7 68.3,85 54,85 C39.7,85 28,83.7 28,82 Z" />
+
+    <!-- Chimney -->
+    <path
+        android:fillColor="#FFA000"
+        android:pathData="M66,28 H72 V37.5 L66,33 Z" />
+
+    <!-- House/Warehouse Main Wall Body -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M31,47 H77 V75 C77,77.2 75.2,79 73,79 H35 C32.8,79 31,77.2 31,75 V47 Z" />
+
+    <!-- Roof Structure -->
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M54,22 L23,45 C21.8,45.9 22.3,48 23.8,48 H29.5 L54,29.5 L78.5,48 H84.2 C85.7,48 86.2,45.9 85,45 L54,22 Z" />
+
+    <!-- Warehouse Door (Arched Entrance) -->
+    <path
+        android:fillColor="#0D47A1"
+        android:pathData="M46,79 V61 C46,56.6 49.6,53 54,53 C58.4,53 62,56.6 62,61 V79 H46 Z" />
+
+    <!-- Door Horizontal Ribs -->
+    <path
+        android:fillColor="#1976D2"
+        android:pathData="M48,64 H60 V66 H48 Z M48,69 H60 V71 H48 Z M48,74 H60 V76 H48 Z" />
+
+    <!-- Left & Right Windows -->
+    <path
+        android:fillColor="#E3F2FD"
+        android:pathData="M36,54 H42 V62 H36 Z M66,54 H72 V62 H66 Z" />
+    <path
+        android:fillColor="#1565C0"
+        android:pathData="M38,56 H40 V60 H38 Z M68,56 H70 V60 H68 Z" />
+
+    <!-- Location Pin Accent in Gable -->
+    <path
+        android:fillColor="#FF3D00"
+        android:pathData="M54,30 C49.6,30 46,33.6 46,38 C46,44 54,51 54,51 C54,51 62,44 62,38 C62,33.6 58.4,30 54,30 Z" />
+    <!-- Pin Center Dot -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,35.5 C52.6,35.5 51.5,36.6 51.5,38 C51.5,39.4 52.6,40.5 54,40.5 C55.4,40.5 56.5,39.4 56.5,38 C56.5,36.6 55.4,35.5 54,35.5 Z" />
+</vector>
